@@ -1,2 +1,7 @@
 # .github
-Real-time forex macroeconomic API for all major currency pairs sourced from central bank announcements.
+
+Organisation-level defaults for [FXMacroData](https://github.com/fxmacrodata).
+
+`profile/README.md` renders on the [organisation
+profile](https://github.com/fxmacrodata). Edit that file to change what visitors
+see there.
