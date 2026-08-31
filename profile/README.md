@@ -39,6 +39,7 @@ pip install fxmacrodata
 ```python
 from fxmacrodata import Client
 
+# The key is sent as an X-API-Key header, not in the URL.
 client = Client(api_key="YOUR_API_KEY")
 
 # Macroeconomic releases, with announcement timestamps
@@ -102,6 +103,14 @@ client setup, or run the [self-hosted server](https://github.com/fxmacrodata/mcp
 | **Enterprise** | Higher limits, commercial redistribution, support |
 
 See [Pricing](https://fxmacrodata.com/pricing) for current terms.
+
+---
+
+## 🔌 Endpoint & authentication
+
+All endpoints live under `https://api.fxmacrodata.com/v1/`. Authenticate with an
+`X-API-Key` header — an `api_key` query parameter is still accepted, but a key in
+a URL is recorded by proxies, CDNs and server access logs.
 
 ---
 
