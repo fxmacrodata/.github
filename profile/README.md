@@ -1,21 +1,20 @@
 # FXMacroData 📊
 
-**Official-source macroeconomic and FX data, timestamped for backtesting.**
+**Official-source macroeconomic and FX data for research and backtesting.**
 
-[fxmacrodata.com](https://fxmacrodata.com) delivers macroeconomic indicators, FX
-prices, and central-bank releases sourced directly from central banks and
-statistical agencies. Every observation carries the exact announcement
-timestamp, so research and backtests can ask *what was knowable at the time*
-rather than silently using a revised figure.
+[FXMacroData](https://fxmacrodata.com) provides macroeconomic observations, FX
+data and central-bank releases sourced from central banks and statistical
+agencies. Use supplied publication timestamps and provenance for
+point-in-time research.
+
+[Subscribe to FXMacroData](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=org_profile_subscribe) for non-USD data, full available history, FX, commodities and positioning. Use the public USD workflow to evaluate the API before connecting your subscription.
 
 ---
 
 ## 📈 Coverage
 
-**656 indicator endpoints · 97 distinct macroeconomic indicators · 18 currencies**
-
-`AUD` · `BRL` · `CAD` · `CHF` · `CNH` · `CNY` · `DKK` · `EUR` · `GBP` · `ILS` ·
-`JPY` · `NGN` · `NOK` · `NZD` · `PEN` · `SEK` · `THB` · `USD`
+Explore the [current data coverage](https://fxmacrodata.com/data-coverage) for
+available currencies, indicators and history.
 
 | Category | Indicators |
 |---|---|
@@ -83,9 +82,8 @@ client setup, or run the [self-hosted server](https://github.com/fxmacrodata/mcp
 
 ## 💡 Why it exists
 
-- **No lookahead bias** — every point carries its announcement timestamp, and
-  revisions keep their original epochs, so you can reconstruct what was
-  published when
+- **Point-in-time research** — use supplied publication timestamps and revision
+  metadata when constructing historical datasets
 - **Official sources only** — central banks and statistical agencies, with
   provenance on every response
 - **Release-aware** — a calendar of upcoming releases with confirmed vs assumed
@@ -98,11 +96,11 @@ client setup, or run the [self-hosted server](https://github.com/fxmacrodata/mcp
 
 | Plan | Access |
 |---|---|
-| **Free** | USD macroeconomic indicators, most recent 90 days, no API key required |
-| **Individual** — $50/month | All 18 currencies, full history, FX prices, COT, commodities. 14-day free trial |
-| **Enterprise** | Higher limits, commercial redistribution, support |
+| **Individual** | Subscription for personal research and trading, including non-USD data, full available history, FX, positioning and commodities |
+| **Enterprise** | Subscription for institutional use, with team access and administrative controls |
+| **USD evaluation** | Public USD macroeconomic data within the public-history window, without an API key |
 
-See [Pricing](https://fxmacrodata.com/pricing) for current terms.
+[Compare subscriptions](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=org_profile_subscribe) for current access and terms. Commercial redistribution is a separate add-on.
 
 ---
 
