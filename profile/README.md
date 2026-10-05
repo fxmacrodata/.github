@@ -7,7 +7,7 @@ data and central-bank releases sourced from central banks and statistical
 agencies. Use supplied publication timestamps and provenance for
 point-in-time research.
 
-[Subscribe to FXMacroData](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=org_profile_subscribe) for non-USD data, full available history, FX, commodities and positioning. Use the public USD workflow to evaluate the API before connecting your subscription.
+[Subscribe to FXMacroData](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=subscribe) for non-USD data, full available history, FX, commodities and positioning. Use the public USD workflow to evaluate the API before connecting your subscription.
 
 ---
 
@@ -100,7 +100,7 @@ client setup, or run the [self-hosted server](https://github.com/fxmacrodata/mcp
 | **Enterprise** | Subscription for institutional use, with team access and administrative controls |
 | **USD evaluation** | Public USD macroeconomic data within the public-history window, without an API key |
 
-[Compare subscriptions](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=open_source_integrations&utm_content=org_profile_subscribe) for current access and terms. Commercial redistribution is a separate add-on.
+[Compare subscriptions](https://fxmacrodata.com/subscribe?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=subscribe) for current access and terms. Commercial redistribution is a separate add-on.
 
 ---
 
