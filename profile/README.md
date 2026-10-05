@@ -2,7 +2,7 @@
 
 **Official-source macroeconomic and FX data for research and backtesting.**
 
-[FXMacroData](https://fxmacrodata.com) provides macroeconomic observations, FX
+[FXMacroData](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme) provides macroeconomic observations, FX
 data and central-bank releases sourced from central banks and statistical
 agencies. Use supplied publication timestamps and provenance for
 point-in-time research.
@@ -13,7 +13,7 @@ point-in-time research.
 
 ## 📈 Coverage
 
-Explore the [current data coverage](https://fxmacrodata.com/data-coverage) for
+Explore the [current data coverage](https://fxmacrodata.com/data-coverage?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme) for
 available currencies, indicators and history.
 
 | Category | Indicators |
@@ -25,7 +25,7 @@ available currencies, indicators and history.
 | **Positioning & commodities** | CFTC Commitment of Traders, gold, silver, platinum |
 | **Other** | Money supply, inflation expectations, house prices |
 
-Browse the full matrix at [Data Coverage](https://fxmacrodata.com/data-coverage).
+Browse the full matrix at [Data Coverage](https://fxmacrodata.com/data-coverage?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme).
 
 ---
 
@@ -75,7 +75,7 @@ can query macro data, release calendars, and FX rates as tools:
 https://mcp.fxmacrodata.com/mcp
 ```
 
-See the [MCP Server docs](https://fxmacrodata.com/documentation/mcp-server) for
+See the [MCP Server docs](https://fxmacrodata.com/documentation/mcp-server?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme) for
 client setup, or run the [self-hosted server](https://github.com/fxmacrodata/mcp-server-fxmacrodata).
 
 ---
@@ -114,9 +114,9 @@ a URL is recorded by proxies, CDNs and server access logs.
 
 ## 🔗 Links
 
-- 🌐 **Website:** [fxmacrodata.com](https://fxmacrodata.com)
-- 📖 **API reference:** [fxmacrodata.com/documentation/reference](https://fxmacrodata.com/documentation/reference)
-- 🔌 **Swagger UI:** [fxmacrodata.com/api/docs](https://fxmacrodata.com/api/docs)
-- 📚 **Quickstart & guides:** [fxmacrodata.com/api-data-docs](https://fxmacrodata.com/api-data-docs/)
+- 🌐 **Website:** [fxmacrodata.com](https://fxmacrodata.com/?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme)
+- 📖 **API reference:** [fxmacrodata.com/documentation/reference](https://fxmacrodata.com/documentation/reference?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme)
+- 🔌 **Swagger UI:** [fxmacrodata.com/api/docs](https://fxmacrodata.com/api/docs?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme)
+- 📚 **Quickstart & guides:** [fxmacrodata.com/api-data-docs](https://fxmacrodata.com/api-data-docs/?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme)
 - 📘 **SDK docs:** [fxmacrodata.readthedocs.io](https://fxmacrodata.readthedocs.io/en/latest/)
-- 📊 **Data coverage:** [fxmacrodata.com/data-coverage](https://fxmacrodata.com/data-coverage)
+- 📊 **Data coverage:** [fxmacrodata.com/data-coverage](https://fxmacrodata.com/data-coverage?utm_source=github&utm_medium=referral&utm_campaign=org-profile&utm_content=readme)
